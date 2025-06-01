@@ -70,8 +70,8 @@ career-adviser-bot/
 ├── README.md
 ├── data/
 │   └── careers.db
-├── utils/
-│   └── quiz.py
+└── utils/
+    └── quiz.py
 ```
 ---
 
