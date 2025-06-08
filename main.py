@@ -277,4 +277,3 @@ def text_handler(message):
 
 if __name__ == '__main__':
     print("Бот запущен...")
-    bot.infinity_polling()
